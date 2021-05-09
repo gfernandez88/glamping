@@ -9,12 +9,6 @@ nav {
     font-weight: 300;
 }
 
-h5 {
-    font-family: 'Montserrat', sans-serif;
-    text-transform: uppercase;
-    font-weight: 500;
-}
-
 .carrusel {
     color: white;
 }
@@ -132,25 +126,6 @@ footer p {
 section {
     margin-bottom: 20px;
 }
-
-/* --GRID
-
-header {
-    grid-area: header;
-}
-
-#grids {
-    display: grid;
-    grid-template-areas: 
-    "header header"
-    "cuerpo cuerpo"
-    "pie pie";
-    grid-template-columns: 1fr;
-    grid-template-rows: 0fr 5fr 0fr;
-    grid-column-gap:10px;
-    grid-row-gap: 5px;
-    
-}*/
  
  /*---- GRADIENTE-Animación y Transform ---*/
 
