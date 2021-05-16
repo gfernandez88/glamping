@@ -126,10 +126,14 @@ footer p {
     list-style: none;   
 }
 
+.footerRedes:hover {
+    color: #707070;
+}
+
 section {
     margin-bottom: 20px;
 }
- 
+
  /*---- GRADIENTE-Animación y Transform ---*/
 
  #grad {
